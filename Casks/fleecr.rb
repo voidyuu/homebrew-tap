@@ -1,6 +1,6 @@
 cask "fleecr" do
-  version "0.6.1"
-  sha256 "c80669f09f6efb07561d2e33283ee657156d79595aca7fb6abf70291320c9b1a"
+  version "1.0.0"
+  sha256 "4f86892760dfb36b03364c40b336c9b30b0f6976691d451cd56197f6c54d4963"
 
   url "https://github.com/voidyuu/fleecr/releases/download/v#{version}/fleecr-#{version}.zip"
   name "fleecr"
